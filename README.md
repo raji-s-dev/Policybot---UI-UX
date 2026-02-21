@@ -1,4 +1,4 @@
-# PolicyBot – Frontend Suite
+# PolicyBot 
 
 ## Overview
 
