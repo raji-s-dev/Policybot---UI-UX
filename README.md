@@ -1,5 +1,7 @@
 # PolicyBot – Policy Exploration Platform
 
+🔗 **Live Demo:** https://cerai.iitm.ac.in/policybot/
+
 PolicyBot is a conversational interface for exploring government and institutional policy documents.
 
 It enables users to ask questions in natural language and receive answers grounded directly in official policy texts, with clear citations for verification.
